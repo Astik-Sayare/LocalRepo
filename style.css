@@ -1,0 +1,11 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(221, 183, 248);
+}
+
+h1{
+    color: red;
+}
