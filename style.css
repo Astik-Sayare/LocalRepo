@@ -1,6 +1,7 @@
 
 body{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: rgb(221, 183, 248);
@@ -8,4 +9,13 @@ body{
 
 h1{
     color: red;
+}
+
+p {
+    color: blueviolet;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: large;
+    font-weight: 600;
+
 }
